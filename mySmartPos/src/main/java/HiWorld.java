@@ -4,5 +4,7 @@ public class HiWorld {
         System.out.println("nihao woshi liu");
         System.out.println("nihao woshi liu");
         System.out.println("nihao woshi liu");
+        System.out.println("nihao woshi l");
+        System.out.println("nihao woshi lu");
     }
 }
